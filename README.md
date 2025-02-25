@@ -43,12 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pamelabrito/pamelabrito/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=pamela's%20github%20visits"  />
 </div>
