@@ -84,6 +84,12 @@ Welcome to my GitHub profile, make yourself at home :)</p>
   />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <div  align="left" >
   <a href="https://github.com/pamelabrito/pamelabrito">
   <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=pamelabrito&show_icons=true&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF"/>
