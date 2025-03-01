@@ -69,6 +69,15 @@ Welcome to my GitHub profile, make yourself at home :)</p>
     <span>GITHUB STATISTICS</span>
 </h2>
 
+![snake gif](https://github.com/pamelabrito/pamelabrito/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamelabrito/pamelabrito/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamelabrito/pamelabrito/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pamelabrito/pamelabrito/output/github-contribution-grid-snake-dark.svg">
+  
+</picture>
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pamelabrito&layout=compact&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF)
 
 <div align="left">
