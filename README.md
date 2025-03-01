@@ -69,16 +69,21 @@ Welcome to my GitHub profile, make yourself at home :)</p>
     <span>GITHUB STATISTICS</span>
 </h2>
 
+<div  align="left" >
+  <a href="https://github.com/pamelabrito/pamelabrito">
+  <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=pamelabrito&show_icons=true&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF"/>
+</div>
+
+<br>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div  align="left" >
-  <a href="https://github.com/pamelabrito/pamelabrito">
-  <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=pamelabrito&show_icons=true&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF"/>
-</div>
+<br>
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=pamela's%20github%20visits"  />
 </div>
