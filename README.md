@@ -1,5 +1,5 @@
  <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=pamela's%20visits"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=profile's%20visits"/>
 </div>
 
 [![](https://github.com/pamelabrito/pamelabrito/blob/main/assets/profile/HI%2C%20THERE!%20(2000%20x%20200%20px).gif)](https://www.linkedin.com/in/pameladjbrito/)
