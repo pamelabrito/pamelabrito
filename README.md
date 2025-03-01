@@ -93,7 +93,6 @@ Welcome to my GitHub profile, make yourself at home :)</p>
 <div  align="left" >
   <a href="https://github.com/pamelabrito/pamelabrito">
   <img  height="166em" src="https://github-readme-stats.vercel.app/api?username=pamelabrito&show_icons=true&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF"/>
-  <img  height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelabrito&layout=compact&langs_count=7&bg_color=050305&border_color=000&title_color=ac48bc&text_color=FFF"/>
 </div>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=pamela's%20github%20visits"  />
