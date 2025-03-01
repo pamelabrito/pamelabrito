@@ -1,6 +1,6 @@
 [![](https://github.com/pamelabrito/pamelabrito/blob/main/assets/profile/HI%2C%20THERE!%20(2000%20x%20200%20px).gif)](https://www.linkedin.com/in/pameladjbrito/)
 
-<img align="right" alt="PamBrito" height="380" src="https://raw.githubusercontent.com/pamelabrito/pamelabrito/refs/heads/main/assets/profile/cutepic.png">
+<img align="right" alt="PamBrito" height="380" src="https://raw.githubusercontent.com/pamelabrito/pamelabrito/refs/heads/main/assets/profile/cutepic2.png">
 
 <h2>
     <a href="https://github.com/pamelabrito/pamelabrito">
