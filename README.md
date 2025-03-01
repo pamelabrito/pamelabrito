@@ -69,26 +69,8 @@ Welcome to my GitHub profile, make yourself at home :)</p>
     <span>GITHUB STATISTICS</span>
 </h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pamelabrito/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pamelabrito/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/pamelabrito/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![snake gif](https://github.com/pamelabrito/pamelabrito/blob/output/github-contribution-grid-snake.gif)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <div  align="left" >
   <a href="https://github.com/pamelabrito/pamelabrito">
