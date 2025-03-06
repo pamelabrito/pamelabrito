@@ -81,5 +81,5 @@ Welcome to my GitHub profile, make yourself at home :)</p>
 <br>
 
  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=profile's%20visits"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pamelabrito.pamelabrito&left_color=darkviolet&right_color=gray&left_text=PAMELA'S%20PROFILE%20VISITS"/>
 </div>
