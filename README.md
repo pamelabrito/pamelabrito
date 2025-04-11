@@ -77,6 +77,9 @@ Welcome to my GitHub profile, make yourself at home :)</p>
   <img align="center" alt="PamBrito" src="https://raw.githubusercontent.com/pamelabrito/pamelabrito/output/github-contribution-grid-snake.svg">
 </picture>
 
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pamelabrito?cardType=github&showIcons=false&preferLogin=false&Background=21012900&Text=696969&Title=783283&Border=FFFFFF00&Ring=783283)](https://git.io/awesome-stats-card) | ![pamelabrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pamelabrito&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) |
+| --- | --- |
+
 <br>
 <br>
 
